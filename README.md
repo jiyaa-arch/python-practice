@@ -6,3 +6,4 @@ This repository contains my python practice program
 A simple game where user guesses a number between 1 to 10.
 -Password generator(python)
 A simple program to generate password using random characters,numbers and symbol.
+-Snake,water,gun game(python)
